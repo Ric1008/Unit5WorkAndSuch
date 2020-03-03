@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9306adb0-d373-4f20-89ce-473730e86b78" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../ComProg11Unit5Resources/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ComProg11Unit5Resources/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ComProg11Unit5Resources/.idea/libraries/junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ComProg11Unit5Resources/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ComProg11Unit5Resources/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ComProg11Unit5Resources/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ComProg11Unit5Resources/ComProg11Unit5Resources.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ComProg11Unit5Resources/TestCases/IntegerSetTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ComProg11Unit5Resources/TestCases/IntegerSetTests2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ComProg11Unit5Resources/TestCases/TheatreTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ComProg11Unit5Resources/lib/hamcrest-core-1.3-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ComProg11Unit5Resources/lib/hamcrest-core-1.3-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ComProg11Unit5Resources/lib/hamcrest-core-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ComProg11Unit5Resources/lib/junit-4.12-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ComProg11Unit5Resources/lib/junit-4.12-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ComProg11Unit5Resources/lib/junit-4.12.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ComProg11Unit5Resources/out/production/ComProg11Unit5Resources/Customer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ComProg11Unit5Resources/out/production/ComProg11Unit5Resources/Deposit.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ComProg11Unit5Resources/out/production/ComProg11Unit5Resources/IntegerSet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ComProg11Unit5Resources/out/production/ComProg11Unit5Resources/IntegerSet2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ComProg11Unit5Resources/out/production/ComProg11Unit5Resources/IntegerSetUsage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ComProg11Unit5Resources/out/production/ComProg11Unit5Resources/IntegerSetUsage2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ComProg11Unit5Resources/out/production/ComProg11Unit5Resources/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ComProg11Unit5Resources/out/production/ComProg11Unit5Resources/Theatre.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ComProg11Unit5Resources/out/production/ComProg11Unit5Resources/TheatreUsage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ComProg11Unit5Resources/out/production/ComProg11Unit5Resources/Withdraw.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ComProg11Unit5Resources/out/test/ComProg11Unit5Resources/IntegerSetTests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ComProg11Unit5Resources/out/test/ComProg11Unit5Resources/IntegerSetTests2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ComProg11Unit5Resources/out/test/ComProg11Unit5Resources/TheatreTests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ComProg11Unit5Resources/src/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ComProg11Unit5Resources/src/Deposit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ComProg11Unit5Resources/src/IntegerSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ComProg11Unit5Resources/src/IntegerSet2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ComProg11Unit5Resources/src/IntegerSetUsage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ComProg11Unit5Resources/src/IntegerSetUsage2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ComProg11Unit5Resources/src/Theatre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ComProg11Unit5Resources/src/TheatreUsage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ComProg11Unit5Resources/src/Withdraw.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComProg11Unit5VidNots.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hamcrest-core-1.3-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hamcrest-core-1.3-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hamcrest-core-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/junit-4.12-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/junit-4.12-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/junit-4.12.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataAbstraction/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataAbstraction/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataAbstraction/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataAbstraction/.idea/libraries/junit_junit_5_0_SNAPSHOT.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataAbstraction/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataAbstraction/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataAbstraction/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataAbstraction/IntegerTestStartup.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataAbstractionAssignment/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataAbstractionAssignment/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataAbstractionAssignment/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataAbstractionAssignment/DataAbstractionAssignment.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MovieTheatre/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MovieTheatre/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MovieTheatre/.idea/libraries/junit_junit_5_0_SNAPSHOT.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MovieTheatre/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MovieTheatre/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MovieTheatre/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MovieTheatre/MovieTheatre.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1YdcYpGUpFssZ0Bh9mGfWoUdrge" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.Annotations" value="true" />
+    <property name="Repository.Attach.JavaDocs" value="true" />
+    <property name="Repository.Attach.Sources" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9306adb0-d373-4f20-89ce-473730e86b78" name="Default Changelist" comment="" />
+      <created>1583275961283</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583275961283</updated>
+      <workItem from="1583275964235" duration="243000" />
+      <workItem from="1583276282911" duration="167000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="200" y="7" key="SettingsEditor" timestamp="1583276298523">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="200" y="7" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1583276298523" />
+    <state x="424" y="331" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1583276151114">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="424" y="331" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1440.860@0.0.1440.860" timestamp="1583276151114" />
+  </component>
+</project>
