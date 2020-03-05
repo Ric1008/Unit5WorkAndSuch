@@ -1,8 +1,8 @@
+import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
 
-import static org.junit.Assert.assertEquals;
-import static org.junit.Assert.assertTrue;
+import static org.junit.Assert.*;
 
 public class TheatreTests {
     Theatre test;
@@ -30,6 +30,41 @@ public class TheatreTests {
         }
         test.purchaseSeat(15);
         comparison.remove(15);
+        IntegerSet seatsRemaining=test.getSeatsRemaining();
+        for(int i=1; i<seatsRemaining.size();i++)
+        {
+            if (i==15){
+                assertFalse (comparison.contains(i)||seatsRemaining.contains(i));}
+            else{
+                assertTrue(comparison.contains(i) && seatsRemaining.contains(i));
+            }
+        }
         
+    }
+    @Test public void testIsAisle(){
+        assertTrue(test.isAisle(3));
+        assertEquals(test.getSize(), 59);
+        assertTrue(test.isPurchased(10));
+        test.purchaseSeat(10);
+        assertEquals(test.getSize(), 59);
+
+    }
+    @Test
+    public void testSeatReamaining(){
+        IntegerSet comparison =  new IntegerSet();
+        for(int i=0; i<60; i++){
+            comparison.insert(i+1);
+        }
+        test.purchaseSeat(15);
+        comparison.remove(15);
+        IntegerSet seatsRemaining=test.getSeatsRemaining();
+        for(int i=1; i<seatsRemaining.size();i++){
+            if(i==15){
+                assertFalse(comparison.contains(i)||seatsRemaining.contains(i));
+            }
+            else{
+                
+            }
+        }
     }
 }

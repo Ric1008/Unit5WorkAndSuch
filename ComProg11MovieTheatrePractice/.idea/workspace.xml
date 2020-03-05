@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="87a8debe-4d6b-4f68-9ea2-d90182c7e932" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestCases/TheatreTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Theatre.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Theatre.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TheatreUsage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TheatreUsage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ComProg11Unit5VidNots/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ComProg11Unit5VidNots/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MovieTheatre/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MovieTheatre/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestCases/TheatreTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/TestCases/TheatreTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +42,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../MovieTheatre" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -93,6 +87,8 @@
       <updated>1583403693264</updated>
       <workItem from="1583403696608" duration="1379000" />
       <workItem from="1583437293651" duration="1670000" />
+      <workItem from="1583444881675" duration="2043000" />
+      <workItem from="1583448124391" duration="669000" />
     </task>
     <servers />
   </component>
@@ -100,6 +96,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="312" y="91" key="#Notifications" timestamp="1583444920628">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="312" y="91" key="#Notifications/0.0.1440.860@0.0.1440.860" timestamp="1583444920628" />
     <state x="571" y="322" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1583437305927">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
@@ -113,13 +113,25 @@
       <screen x="0" y="0" width="1280" height="689" />
     </state>
     <state x="121" y="0" key="SettingsEditor/0.0.1280.689@0.0.1280.689" timestamp="1583403766124" />
+    <state x="428" y="257" key="com.intellij.ide.util.TipDialog" timestamp="1583448124559">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="428" y="257" key="com.intellij.ide.util.TipDialog/0.0.1440.860@0.0.1440.860" timestamp="1583448124559" />
     <state x="375" y="247" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1583403760538">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
     <state x="375" y="247" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1280.689@0.0.1280.689" timestamp="1583403760538" />
+    <state x="102" y="56" key="new project wizard" timestamp="1583446660952">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="102" y="56" key="new project wizard/0.0.1440.860@0.0.1440.860" timestamp="1583446660952" />
     <state x="376" y="195" key="run.anything.popup" timestamp="1583438030423">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="376" y="195" key="run.anything.popup/0.0.1440.860@0.0.1440.860" timestamp="1583438030423" />
+    <state x="383" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1583448290683">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="383" y="180" width="672" height="678" key="search.everywhere.popup/0.0.1440.860@0.0.1440.860" timestamp="1583448290683" />
   </component>
 </project>
