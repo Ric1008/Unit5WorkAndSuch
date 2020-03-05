@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="87a8debe-4d6b-4f68-9ea2-d90182c7e932" name="Default Changelist" comment="" />
+    <list default="true" id="87a8debe-4d6b-4f68-9ea2-d90182c7e932" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestCases/TheatreTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Theatre.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Theatre.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TheatreUsage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TheatreUsage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ComProg11Unit5VidNots/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ComProg11Unit5VidNots/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MovieTheatre/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MovieTheatre/.idea/misc.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,10 +26,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1YhnSXwyTPF2jmu630IkP15FQfI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -32,9 +45,10 @@
     <property name="Repository.Attach.JavaDocs" value="true" />
     <property name="Repository.Attach.Sources" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/GitHub/Unit5WorkAndSuch/ComProg11IntegerSetTests" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../MovieTheatre" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -78,6 +92,7 @@
       <option name="presentableId" value="Default" />
       <updated>1583403693264</updated>
       <workItem from="1583403696608" duration="1379000" />
+      <workItem from="1583437293651" duration="1670000" />
     </task>
     <servers />
   </component>
@@ -85,10 +100,15 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="421" y="104" key="FileChooserDialogImpl" timestamp="1583404065039">
-      <screen x="0" y="0" width="1280" height="689" />
+    <state x="571" y="322" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1583437305927">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="571" y="322" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1440.860@0.0.1440.860" timestamp="1583437305927" />
+    <state x="474" y="130" key="FileChooserDialogImpl" timestamp="1583437347922">
+      <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="421" y="104" key="FileChooserDialogImpl/0.0.1280.689@0.0.1280.689" timestamp="1583404065039" />
+    <state x="474" y="130" key="FileChooserDialogImpl/0.0.1440.860@0.0.1440.860" timestamp="1583437347922" />
     <state x="121" y="0" key="SettingsEditor" timestamp="1583403766124">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
@@ -97,5 +117,9 @@
       <screen x="0" y="0" width="1280" height="689" />
     </state>
     <state x="375" y="247" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1280.689@0.0.1280.689" timestamp="1583403760538" />
+    <state x="376" y="195" key="run.anything.popup" timestamp="1583438030423">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="376" y="195" key="run.anything.popup/0.0.1440.860@0.0.1440.860" timestamp="1583438030423" />
   </component>
 </project>

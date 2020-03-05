@@ -33,7 +33,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ComProg11Unit5Resources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../MovieTheatre" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -64,6 +64,7 @@
       <workItem from="1583276282911" duration="167000" />
       <workItem from="1583310288909" duration="141000" />
       <workItem from="1583310456177" duration="50000" />
+      <workItem from="1583437249408" duration="22000" />
     </task>
     <servers />
   </component>
@@ -71,18 +72,20 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="421" y="104" key="FileChooserDialogImpl" timestamp="1583310380090">
-      <screen x="0" y="0" width="1280" height="689" />
+    <state x="474" y="130" key="FileChooserDialogImpl" timestamp="1583437270141">
+      <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="421" y="104" key="FileChooserDialogImpl/0.0.1280.689@0.0.1280.689" timestamp="1583310380090" />
+    <state x="474" y="130" key="FileChooserDialogImpl/0.0.1440.860@0.0.1440.860" timestamp="1583437270141" />
     <state x="200" y="7" key="SettingsEditor" timestamp="1583276298523">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="200" y="7" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1583276298523" />
-    <state x="349" y="174" key="com.intellij.ide.util.TipDialog" timestamp="1583310458070">
-      <screen x="0" y="0" width="1280" height="689" />
+    <state x="393" y="217" key="com.intellij.ide.util.TipDialog" timestamp="1583437255451">
+      <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="349" y="174" key="com.intellij.ide.util.TipDialog/0.0.1280.689@0.0.1280.689" timestamp="1583310458070" />
+    <state x="393" y="217" key="com.intellij.ide.util.TipDialog/0.0.1440.860@0.0.1440.860" timestamp="1583437255451" />
     <state x="424" y="331" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1583276151114">
       <screen x="0" y="0" width="1440" height="860" />
     </state>

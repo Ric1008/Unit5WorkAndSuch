@@ -42,4 +42,13 @@ Theatre(int totalSeats, int[] firstRowAisleSeats, int rows){
     public boolean isAisle(Integer seatNum){
     return false;
     }
+    //Requires: integer seatnumber
+    //Effects: returns true if seat is purchased, else returns false
+    public boolean isPurchased (Integer num)
+    {
+        return false;
+    }
+    //Effects: returns number of remaining seats
+    public int getSize(){return 0;}
+
 }
