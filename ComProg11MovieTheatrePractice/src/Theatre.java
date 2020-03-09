@@ -31,7 +31,11 @@ Theatre(int totalSeats, int[] firstRowAisleSeats, int rows){
     //Effects: if the seat is remaining remove seat from IntegerSet and add it to occupied
     //integerset. Else do nothing
     public void purchaseSeat (Integer seatNum){
-
+if(seatsRemaining.contains(seatNum)){
+    occupiedSeats.insert(seatNum);
+    seatsRemaining.remove(seatNum);
+        
+}
     }
     //Effects: returns the remaining seats in the theatre
     public IntegerSet getSeatsRemaining(){

@@ -4,6 +4,7 @@
     <list default="true" id="87a8debe-4d6b-4f68-9ea2-d90182c7e932" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TestCases/TheatreTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/TestCases/TheatreTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Theatre.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Theatre.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,6 +90,7 @@
       <workItem from="1583437293651" duration="1670000" />
       <workItem from="1583444881675" duration="2043000" />
       <workItem from="1583448124391" duration="669000" />
+      <workItem from="1583788292111" duration="2003000" />
     </task>
     <servers />
   </component>
@@ -113,10 +115,10 @@
       <screen x="0" y="0" width="1280" height="689" />
     </state>
     <state x="121" y="0" key="SettingsEditor/0.0.1280.689@0.0.1280.689" timestamp="1583403766124" />
-    <state x="428" y="257" key="com.intellij.ide.util.TipDialog" timestamp="1583448124559">
+    <state x="428" y="257" key="com.intellij.ide.util.TipDialog" timestamp="1583788421379">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="428" y="257" key="com.intellij.ide.util.TipDialog/0.0.1440.860@0.0.1440.860" timestamp="1583448124559" />
+    <state x="428" y="257" key="com.intellij.ide.util.TipDialog/0.0.1440.860@0.0.1440.860" timestamp="1583788421379" />
     <state x="375" y="247" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1583403760538">
       <screen x="0" y="0" width="1280" height="689" />
     </state>

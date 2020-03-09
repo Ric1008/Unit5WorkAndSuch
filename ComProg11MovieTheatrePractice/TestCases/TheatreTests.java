@@ -63,8 +63,16 @@ public class TheatreTests {
                 assertFalse(comparison.contains(i)||seatsRemaining.contains(i));
             }
             else{
-                
+                assertTrue(comparison.contains(i) && seatsRemaining.contains(i));
             }
         }
+    }
+    @Test
+    public void testisAisle(){
+        assertTrue(test.isAisle(3));
+        assertTrue(test.isAisle(46));
+        assertFalse(test.isAisle(7));
+        assertFalse(test.isAisle(19));
+
     }
 }
