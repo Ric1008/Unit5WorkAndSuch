@@ -4,6 +4,7 @@ import org.junit.Test;
 
 import static org.junit.Assert.*;
 
+
 public class TheatreTests {
     Theatre test;
     @Before
@@ -15,7 +16,8 @@ public class TheatreTests {
     @Test
     public void testPurchaseSeat(){
         test.purchaseSeat(0);
-        assertEquals(test.getSize(), 59);
+        assertEquals
+                (test.getSize(), 59);
         assertTrue(test.isPurchased(10));
         test.purchaseSeat(10);
         assertEquals(test.getSize(), 59);
