@@ -44,15 +44,21 @@ if(seatsRemaining.contains(seatNum)){
     //Requires: integer, seatNum
     //Effects: returns true if seat is on an aisle, else return false
     public boolean isAisle(Integer seatNum){
-    return false;
+
+    int seatsPerRow=getSize()/totalRows;
+    return aisleSeats.contains(seatNum % seatsPerRow);
+
     }
     //Requires: integer seatnumber
     //Effects: returns true if seat is purchased, else returns false
     public boolean isPurchased (Integer num)
     {
-        return false;
+
+        return occupiedSeats.contains(num);
     }
     //Effects: returns number of remaining seats
-    public int getSize(){return 0;}
+    public int getSize(){
+    return seatsRemaining.size();
+}
 
 }

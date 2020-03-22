@@ -8,8 +8,8 @@ public class TheatreTests {
     Theatre test;
     @Before
     public void setUp (){
-        int[] firstRowAisleSeats={2,3,10,11};
-        test=new Theatre(60, firstRowAisleSeats, 5);
+        int[] firstRowAisleSeats={3,4};
+        test=new Theatre(60, firstRowAisleSeats, 10);
 
     }
     @Test
@@ -23,7 +23,7 @@ public class TheatreTests {
 
     }
     @Test
-    public void testSeatRemaing(){
+    public void testSeatRemaining(){
         IntegerSet comparison=new IntegerSet();
         for(int i=0; i<60 ; i++){
             comparison.insert(i+1);
@@ -43,7 +43,8 @@ public class TheatreTests {
     }
     @Test public void testIsAisle(){
         assertTrue(test.isAisle(3));
-        assertEquals(test.getSize(), 59);
+        assertEquals(test.getSize(),
+                59);
         assertTrue(test.isPurchased(10));
         test.purchaseSeat(10);
         assertEquals(test.getSize(), 59);
